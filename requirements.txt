@@ -1,0 +1,8 @@
+# HTTP client library (like Apache HttpClient or RestTemplate)
+requests==2.31.0
+
+# For colored terminal output
+colorama==0.4.6
+
+# For HTML report generation (like Thymeleaf)
+jinja2==3.1.3
